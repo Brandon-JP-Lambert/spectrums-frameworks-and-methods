@@ -30,25 +30,19 @@ Replace `[topic]` with the desired topic to generate a list of quantitative meth
 
 ## Sample Prompts
 
-### Prompt Template for Spectrums
-
-**Sample Prompt 1:**
+**Sample Prompt 1 (Spectrums, Emotions):**
 
 ```
 Write a list of spectrums that could be used when discussing emotions. Describe the ranges of each of these spectrums. Add descriptions of the representative examples that can be found at points on these spectrums.
 ```
 
-### Prompt Template for Frameworks
-
-**Sample Prompt 2:**
+**Sample Prompt 2 (Frameworks, Sustainable Development):**
 
 ```
 Write a list of frameworks that can be used to discuss sustainable development.
 ```
 
-### Prompt Template for Quantitative Methods
-
-**Sample Prompt 3:**
+**Sample Prompt 3 (Methods, Sleep):**
 
 ```
 Write a list of quantitative methods that can be used to study sleep. Describe how each method is used to study sleep.
