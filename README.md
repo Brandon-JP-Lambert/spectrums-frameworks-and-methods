@@ -1,4 +1,4 @@
-# Research-and-analysis
+# spectrums-frameworks-and-methods
 
 This repository contains prompt templates that can be used to generate ideas and guide discussions on various topics. The prompts can be edited to fit the desired topic and generate contextually appropriate content using generative AI tools like ChatGPT.
 
