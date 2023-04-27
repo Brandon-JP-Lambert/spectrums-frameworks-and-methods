@@ -111,7 +111,7 @@ _Polyphasic Sleep_: A sleep pattern in which an individual's sleep is divided in
 Write a list of quantitative methods that can be used to study sleep. Describe how each method is used to study sleep.
 ```
 
-**Sample Output 1 (Methods, Sleep):**
+**Sample Output 3 (Methods, Sleep):**
 
 _Polysomnography (PSG)_: This comprehensive sleep study records multiple physiological parameters, such as brain activity (EEG), eye movement (EOG), muscle activity (EMG), and heart rhythm (ECG), to assess sleep stages, sleep quality, and diagnose sleep disorders.
 
