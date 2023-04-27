@@ -4,7 +4,7 @@ This repository contains prompt templates that can be used to generate ideas and
 
 ## Prompt Templates
 
-**Prompt 1:**
+**Prompt 1 (Spectrums):**
 
 ```
 Write a list of spectrums that could be used when discussing [topic]. Describe the ranges of each of these spectrums. Add descriptions of the representative examples that can be found at points on these spectrums.
@@ -12,7 +12,7 @@ Write a list of spectrums that could be used when discussing [topic]. Describe t
 
 Replace `[topic]` with the desired topic to generate a list of spectrums.
 
-**Prompt 2:**
+**Prompt 2 (Frameworks):**
 
 ```
 Write a list of frameworks that can be used to discuss [topic].
@@ -20,7 +20,7 @@ Write a list of frameworks that can be used to discuss [topic].
 
 Replace `[topic]` with the desired topic to generate a list of frameworks.
 
-**Prompt 3:**
+**Prompt 3 (Methods):**
 
 ```
 Write a list of quantitative methods that can be used to study [topic]. Describe how each method is used to study the topic.
