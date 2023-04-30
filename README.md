@@ -10,6 +10,18 @@ This repository contains prompt templates that can be used to generate ideas and
 - Can be used as a starting point for brainstorming, ideation, or further exploration of complex subjects.
 - Supports interdisciplinary approaches, enabling users to explore topics from multiple perspectives.
 
+## Usage
+
+To use the prompt templates provided in this repository, follow these steps:
+
+1. Choose a prompt template from the available options (Spectrums, Frameworks, or Methods).
+2. Edit the prompt by replacing `[topic]` with the specific topic you wish to explore or discuss.
+3. Use the edited prompt as input for generative AI tools like ChatGPT to generate contextually relevant content.
+4. Review the generated content and make any necessary revisions to ensure accuracy and relevance to your topic.
+5. Utilize the generated content for research, discussions, ideation, or further exploration of the chosen topic.
+
+The prompt templates are adaptable and can be used for a wide range of topics across various disciplines. By using generative AI tools in combination with these templates, you can generate valuable insights and ideas for your chosen subject matter.
+
 ## Prompt Templates
 
 **Prompt 1 (Spectrums):**
@@ -140,10 +152,6 @@ _Wrist-worn Heart Rate Monitors_: By monitoring heart rate variability (HRV) dur
 _Home Sleep Apnea Testing (HSAT)_: A portable diagnostic test that records airflow, respiratory effort, and blood oxygen levels to identify and assess the severity of sleep apnea in a home setting.
 
 _Functional Magnetic Resonance Imaging (fMRI)_: While not used as a primary method for sleep studies, fMRI can measure brain activity during sleep and help explore the neural mechanisms underlying sleep regulation and the impact of sleep on cognitive functions.
-
-## Usage
-
-This repository is designed to provide prompt templates that can be edited to fit any topic of interest. Simply replace the prompts with your desired topic and generate contextually appropriate content using generative AI tools like ChatGPT.
 
 ## License
 
